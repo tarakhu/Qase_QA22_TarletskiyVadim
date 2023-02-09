@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e1867e3-b40b-4055-b390-10030b63d500" name="Changes" comment="fisrt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e1867e3-b40b-4055-b390-10030b63d500" name="Changes" comment="API home task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/firstProject/SalesforceQA22_TarletskiyVadim",
+    "last_opened_file_path": "D:/firstProject/Cucumber_Example_QA22",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675096691811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="API home task">
+      <created>1675965326301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675965326301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fisrt" />
-    <option name="LAST_COMMIT_MESSAGE" value="fisrt" />
+    <MESSAGE value="API home task" />
+    <option name="LAST_COMMIT_MESSAGE" value="API home task" />
   </component>
 </project>
